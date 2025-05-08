@@ -1,4 +1,7 @@
-# AEDS3 – Projeto de Estruturas em Memória Secundária
+<h1 align="center">Algoritmo e Estrutura de Dados III –<br>Projeto de Estruturas em Memória Secundária</h1>
+
+
+
 
 Este repositório é uma **demonstração prática** das habilidades desenvolvidas na disciplina Algoritmos e Estruturas de Dados III (AEDS3). Aqui você encontrará quatro implementações independentes, cada uma abordando um conjunto de desafios em **manipulação de arquivos**, **estruturas de dados em memória secundária**, **compactação** e **backup**.
 
