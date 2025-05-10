@@ -69,11 +69,7 @@ Durante o desenvolvimento encontramos um efeito de "lápide" ao excluir registro
 git clone https://github.com/LuanCarrieiros/Algoritmo-e-Estrutura-de-Dados-III.git
 cd Algoritmo-e-Estrutura-de-Dados-III/TP1
 
-# Compile
-autocmd mvn clean package  # ou gradle build
 
-# Execute
-autocmd java -jar target/tp1-crud.jar
 ```
 
 ## ✅ Resultado
