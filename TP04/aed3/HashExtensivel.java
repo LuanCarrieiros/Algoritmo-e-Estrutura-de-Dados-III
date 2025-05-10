@@ -9,8 +9,7 @@ disciplina:
 - boolean update(T novoElemento)   //  a chave (hashcode) deve ser a mesma
 - boolean delete(int hashcode)
 
-Implementado pelo Prof. Marcos Kutova
-v1.1 - 2021
+
 */
 package aed3;
 
