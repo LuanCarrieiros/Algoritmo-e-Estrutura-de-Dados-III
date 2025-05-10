@@ -20,7 +20,7 @@ Este repositório é uma **demonstração prática** das habilidades desenvolvid
 | **TP2** | Relacionamento 1\:N e ordenação externa em múltiplos blocos |
 | **TP3** | Buscas e relacionamento N\:N em índices invertidos          |
 | **TP4** | Backup compactado e indexação digital                       |
-
+A
 Cada pasta inclui:
 
 * Código-fonte comentado
@@ -58,6 +58,9 @@ Além dos TPs, exercícios de fixação mapearam conteúdos teóricos:
    cd TP2
    ```
 3. **Siga as instruções** do `README.md` local para compilar e rodar os testes.
+
+> 💡 Obs.: O arquivo `Main.java` foi usado apenas para testes manuais. O ponto principal de entrada da aplicação está em `IO.java`, que controla a execução real do sistema.
+
 
 ## 📋 Tecnologias
 
