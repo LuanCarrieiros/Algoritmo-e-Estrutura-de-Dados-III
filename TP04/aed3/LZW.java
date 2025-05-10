@@ -6,8 +6,7 @@
  *  A codificação não é exatamente de caracteres (Unicode), mas dos bytes que
  *  representam esses caracteres.
  *  
- *  @author Marcos Kutova
- *  PUC Minas
+ *  
  */
 
 package aed3;
