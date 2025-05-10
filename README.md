@@ -20,7 +20,6 @@ Este repositório é uma **demonstração prática** das habilidades desenvolvid
 | **TP2** | Relacionamento 1\:N e ordenação externa em múltiplos blocos |
 | **TP3** | Buscas e relacionamento N\:N em índices invertidos          |
 | **TP4** | Backup compactado e indexação digital                       |
-A
 Cada pasta inclui:
 
 * Código-fonte comentado
