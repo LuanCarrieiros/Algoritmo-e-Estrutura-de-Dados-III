@@ -8,8 +8,7 @@
  * - int[] read(RegistroArvoreBMais objeto)
  * - boolean delete(RegistroArvoreBMais objeto)
  * 
- * Implementado pelo Prof. Marcos Kutova
- * v2.0 - 2021
+
  */
 package aed3;
 
