@@ -1,9 +1,5 @@
 # TP4: Backup Compactado
 
-## 🧑‍💻 Autor
-
-* Luan Barbosa Rosa Carrieiros
-
 ## 📋 Descrição
 
 Implementação de um sistema de **backup compactado** em Java utilizando o algoritmo **LZW**. Arquivos de dados são lidos como vetores de bytes, codificados e armazenados em backups com timestamp. Inclui recuperação seletiva de versões e rotinas de manutenção de backups.
