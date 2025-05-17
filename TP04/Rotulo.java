@@ -103,4 +103,5 @@ public class Rotulo implements Registro {
     public int compareTo(Object o) {
         return this.id - ((Rotulo) o).id;
     }
+    
 }
